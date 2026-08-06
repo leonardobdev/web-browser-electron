@@ -2,7 +2,7 @@
 
 Standalone app for web browser in electron
 
-
+<img width="587" height="440" alt="image" src="https://github.com/user-attachments/assets/759779f9-0eda-4840-814f-42b94f9d3f48" />
 
 ## Download
 
